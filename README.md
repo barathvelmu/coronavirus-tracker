@@ -1,4 +1,4 @@
-# coronavirus-tracker
+# COVID-19 Patients Tracker
 ## Hi there! Welcome! 
 Welcome to my COVID-19 Patients Tracker repository! If you need up to date information on the cases around the world, then you're at the right place! 
 
