@@ -9,7 +9,7 @@ This is a simple COVID-19 Cases Tracker project that I created with Java, Spring
 With COVID-19 booming around the world, there were dozens of articles, news reports, and in general media reporting cases around the world. Personally, I felt overwhelmed with the amount of information that was being released. So to make things simpler for me and my family members, I developed a one-stop application to quickly know how the virus has been spreading around the world. Big thanks to the GitHub repository by John Hopkins University!
 
 ## What are your next steps?
-My main objective is to deploy this project using a cloud computing service like Azure or AWS so people around the world can easily look to see how the virus has been spreading. 
+If so, my main objective will be to deploy this project using a cloud computing service like Azure or AWS so people around the world can easily access and look to see the effect of the virus (where it has been spreading). 
 
 ## How many awards did this project win? 
 Haha I wish! 
