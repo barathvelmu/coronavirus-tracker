@@ -1,15 +1,11 @@
 # COVID-19 Cases Tracker 📉
-## Hi there! Welcome! 
+## Introduction
 Welcome to my COVID-19 Cases Tracker repository! If you need up to date information on the cases around the world, then you're at the right place! 
 
-## What is this project? 
-This is a simple COVID-19 Cases Tracker project that I created with Java, Spring, HTML, Thymeleaf, and an open GitHub data repository from Johns Hopkins University. It was a really good learning experience doing this and I am looking forward to building more Java-based applications in the future!
+This application was built using Java, Spring, Thymeleaf, and a GitHub data repository by Johns Hopkins University. It was an amazing learning experience working on this Tracker and I can't wait to build more Spring applications in the future!
 
 ## What is the goal of this project?
-With COVID-19 booming around the world, there were dozens of articles, news reports, and in general media reporting cases around the world. Personally, I felt overwhelmed with the amount of information that was being released. So to make things simpler for me and my family members, I developed a one-stop application to quickly know how the virus has been spreading around the world. Big thanks to the GitHub repository by John Hopkins University!
-
-## What are your next steps?
-If so, my main objective will be to deploy this project using a cloud computing service like Azure or AWS so people around the world can easily access and look to see the effect of the virus (where it has been spreading). 
+With COVID-19's recent boom, there were thousands of articles, news reports, and videos covering cases around the world. I quickly felt overwhelmed by the amount of information being released daily. To make things simpler for my family and I, this one-stop web-application was developed. One can in a matter of minutes note how the virus is progressing all across the world. Big thanks to the John Hopkins University GitHub repository maintainers!
 
 ## How many awards did this project win? 
 Haha I wish! 
