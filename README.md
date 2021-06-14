@@ -1,4 +1,4 @@
-# COVID-19 Cases Tracker
+# COVID-19 Cases Tracker 📉
 ## Hi there! Welcome! 
 Welcome to my COVID-19 Cases Tracker repository! If you need up to date information on the cases around the world, then you're at the right place! 
 
